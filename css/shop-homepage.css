@@ -22,12 +22,8 @@ body {
 }
 
 .caption {
-    height: 130px;
+    height: 180px;
     overflow: hidden;
-}
-
-.caption h4 {
-    white-space: nowrap;
 }
 
 .thumbnail img {
@@ -35,6 +31,7 @@ body {
 }
 
 .ratings {
+    display : none;
     padding-right: 10px;
     padding-left: 10px;
     color: #d17581;
